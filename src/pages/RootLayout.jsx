@@ -20,7 +20,7 @@ export default function RootLayout() {
             </div>
 
             <footer>
-                <p>Criado por &copy; <a href="https://linkedin.com/in/thiagocainelli" target="_blank">Thiago Cainelli</a> - 2023 </p>
+                <p>TC Imports 2023 - Todos os direitos reservados.</p>
             </footer>
         </>
     )
