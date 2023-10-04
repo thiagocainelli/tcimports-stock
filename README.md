@@ -3,11 +3,10 @@
 
 Projeto criado para controlar o estoque de uma empresa que faz importação de produtos Apple (iPhones, MacBooks, Apple Watchs, etc). Criado com React.js e utlizado react-router-dom para criação das rotas da SPA.
 
-![image](https://github.com/thiagocainelli/tcimports-stock/assets/100229947/c4c6564b-8dba-4835-a096-b216ceb733f5)
+![image](https://github.com/thiagocainelli/tcimports-stock/assets/100229947/99e356cd-0868-409d-8275-51e8b40ea880)
 
-![image](https://github.com/thiagocainelli/tcimports-stock/assets/100229947/ba9f013f-2228-45be-8642-ffbf60f4ef67)
+![image](https://github.com/thiagocainelli/tcimports-stock/assets/100229947/63c67445-c565-4040-8635-b232b2a789cb)
 
-![image](https://github.com/thiagocainelli/tcimports-stock/assets/100229947/f24213ba-ff96-4617-be62-bd5cc8075b28)
+![image](https://github.com/thiagocainelli/tcimports-stock/assets/100229947/04fd86fe-bd0f-4882-a5b7-74adda5cdabc)
 
-![image](https://github.com/thiagocainelli/tcimports-stock/assets/100229947/2e899311-2e9a-4a1c-8164-204274a8933b)
-
+![image](https://github.com/thiagocainelli/tcimports-stock/assets/100229947/bb648b52-073c-4686-9973-02f4a47b29bf)
