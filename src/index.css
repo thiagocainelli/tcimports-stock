@@ -37,6 +37,9 @@ header {
   justify-content: space-between;
   background-color: rgba(0, 0, 0, 0.25);
   margin-bottom: 10px;
+  border-bottom: 5px solid;
+  border-image: linear-gradient(to right, white , rgb(77, 76, 76));
+  border-image-slice: 1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -104,6 +107,7 @@ thead {
   background-color: #1c1a1d;
   box-shadow: 0 4px 16px -2px rgba(0, 0, 0, 0.25);
   text-align: left;
+  border: 2px solid white;
 }
 
 tbody tr:hover {
@@ -146,11 +150,11 @@ th, td {
 }
 
 .button.is-danger {
-  background-color: #ff5258;
+  background-color: #8f1f23;
 }
 
 .button.is-primary {
-  background-color: #307cee;
+  background-color: #fbfcfd;
 }
 
 form {
@@ -188,6 +192,7 @@ input, textarea, select {
 
 .item span,
 .dashboard-card {
+  border: 2px solid white;
   background-color: #1c1a1d;
   box-shadow: 0 4px 16px -2px rgba(0, 0, 0, 0.25);
   border-radius: .25rem;
